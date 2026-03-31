@@ -38,7 +38,9 @@ using backpropagation for computation of the weights , so to find the best weigh
 predicting the trajectory of SIR model - plotting the results - interesting fact for these kind of models - is that for training our NN model we need to map the current value of the variables with the previous ones
 
   [SIR_Model](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/NN_SIR_model_predictions.py)
-  
+
+Also we have watched a few tutorials for building NN, CNN from scratch, so to get the idea how the algorithms of gradient descent and backpropagation are actually implemented and realized - to get a deep understanding how do they actually work
+
 ---
 
 ## Key Skills
