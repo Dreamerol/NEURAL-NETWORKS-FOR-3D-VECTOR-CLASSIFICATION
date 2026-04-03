@@ -5,9 +5,9 @@
 
 ---
 
-## Overview
-**Neural Network Lab** is separated into a few fields of tasks, building neural networks with Tensorflow, implementing our mini version of neural network from scratch, applying 
-the key concepts for gradient descent, backpropagation, optimization functions for finding the best parameters/weights/, biases for our neural network.
+### Overview
+**Neural Network Lab** is separated into a few fields of tasks: building neural networks with TensorFlow, implementing a mini version of a neural network from scratch, and applying key concepts such as gradient descent, backpropagation, and optimization functions to find the best **parameters (weights and biases)** for our neural network.
+
 ---
 
 ## Key Tasks
