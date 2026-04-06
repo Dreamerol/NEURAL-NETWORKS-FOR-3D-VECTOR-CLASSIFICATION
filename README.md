@@ -71,11 +71,11 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 
 #### 🔹 Mini Example in README
 
-```python
-# SIR Model Mini Example
+# Placeholder for SIR Model Visualization
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Dummy SIR data
 days = np.arange(0, 50)
 infected = np.sin(days/10) * 50 + 50
 recovered = np.cos(days/15) * 30 + 30
@@ -89,4 +89,6 @@ plt.ylabel("Population")
 plt.title("SIR Model Simulation")
 plt.legend()
 plt.show()
+
+
 
