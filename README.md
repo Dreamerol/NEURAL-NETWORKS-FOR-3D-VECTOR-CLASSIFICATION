@@ -6,8 +6,6 @@
 
 ---
 
-
-  
 ![Beginner](https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen)
 ![Intermediate](https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow)
 ![Advanced](https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange)
@@ -40,6 +38,19 @@ This lab is not just coding – it’s understanding **how machines think** and 
 
 ---
 
+![Beginner](https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen)
+![Intermediate](https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow)
+![Advanced](https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange)
+![Expert](https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue)
+![Fast Learner](https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey)
+![Brain Master](https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple)
+![Data Explorer](https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan)
+![Innovator](https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink)
+![Engineer](https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet)
+![Accuracy Hero](https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red)
+
+---
+
 ## 🏆 Overview
 The lab is divided into several main areas:  
 
@@ -53,6 +64,22 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 `📊 TensorFlow` `🟢 Vector Classification` `⚙️ Backpropagation` `📈 Math Modelling` `💡 Scientific Method`  
 
 ---
+
+---
+
+![Beginner](https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen)
+![Intermediate](https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow)
+![Advanced](https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange)
+![Expert](https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue)
+![Fast Learner](https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey)
+![Brain Master](https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple)
+![Data Explorer](https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan)
+![Innovator](https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink)
+![Engineer](https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet)
+![Accuracy Hero](https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red)
+
+---
+
 
 ## 📈 Key Tasks
 
