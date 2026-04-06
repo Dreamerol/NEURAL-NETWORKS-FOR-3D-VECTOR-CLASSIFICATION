@@ -69,53 +69,24 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 **Badges:**  
 `📊 SIR Modeller` `🌡️ Epidemic Predictor` `📈 Data Visualizer`  
 
----
-
-### 🎓 Learning Extensions
-- Explored tutorials on **building NN and CNN from scratch**.  
-- Strengthened intuition on **gradient descent & backpropagation**.  
-- Developed deep understanding of **how neural networks adapt and optimize**.  
-
----
-
-## ⚡ Key Skills Gained
-- `📐 Mathematical Modelling`  
-- `🧮 Backpropagation & Gradient Descent`  
-- `🔬 Scientific Method & Experimentation`  
-- `📊 Data Science & Visualization`  
-- `💡 Problem Solving & Critical Thinking`  
-
----
-
-## 👩‍💻 Example: 2D Vector Classification in Python
+#### 🔹 Mini Example in README
 
 ```python
-# 🟢 Simple 2D Vector Classifier with TensorFlow
-import tensorflow as tf
+# SIR Model Mini Example
+import matplotlib.pyplot as plt
 import numpy as np
 
-# Example data: points in 2D plane
-X = np.array([[1, 2], [-1, 2], [-1, -2], [1, -2]], dtype=float)
-y = np.array([[0], [1], [2], [3]])  # Quadrant labels 0-3
+days = np.arange(0, 50)
+infected = np.sin(days/10) * 50 + 50
+recovered = np.cos(days/15) * 30 + 30
+susceptible = 100 - infected - recovered
 
-# Build a simple NN
-model = tf.keras.Sequential([
-    tf.keras.layers.Dense(8, activation='relu', input_shape=(2,)),
-    tf.keras.layers.Dense(4, activation='softmax')
-])
-
-# Compile model
-model.compile(optimizer='adam',
-              loss='sparse_categorical_crossentropy',
-              metrics=['accuracy'])
-
-# Train model
-model.fit(X, y, epochs=100, verbose=0)
-
-# Test prediction
-test_point = np.array([[0.5, -1.5]])
-prediction = np.argmax(model.predict(test_point), axis=1)
-print(f"⚡ Test Point {test_point} is in Quadrant: {prediction[0]}")
-
-
+plt.plot(days, infected, label='Infected 🦠', color='red')
+plt.plot(days, recovered, label='Recovered 💊', color='green')
+plt.plot(days, susceptible, label='Susceptible 🌱', color='blue')
+plt.xlabel("Days")
+plt.ylabel("Population")
+plt.title("SIR Model Simulation")
+plt.legend()
+plt.show()
 
