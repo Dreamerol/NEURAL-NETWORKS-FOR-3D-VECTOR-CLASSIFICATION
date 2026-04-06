@@ -3,25 +3,6 @@
 
 ![Neural Networks](https://github.com/Dreamerol/Dreamerol/blob/57256cdf74e94d8afc08a57d630287fa75743da4/!!!_NN_2.jpg)
 
-===
-# 🧠 Neural Network Lab – Profit Predictor
-
-<p align="center">
-**PROFIT PREDICTOR** е ML проект, който анализира <b>сезонни продажби</b> и предсказва <b>печалби и загуби</b> чрез исторически данни. Моделите помагат за <b>оптимизация на инвентар, таргетиране на маркетинг и прогноза на търсенето</b>.
-</p>
-
----
-
-## 📌 Features / Функционалности
-
-<p align="center">
-- Предсказване на печалби и загуби за определени периоди<br>
-- Анализ на сезонни трендове<br>
-- Визуализация на данни и тренинг на модели<br>
-- Използване на различни ML модели и невронни мрежи<br>
-- Оптимизация на модели чрез hyperparameter tuning
-</p>
-
 ---
 
 ## 🛠️ Tech Stack / Инструменти
@@ -32,47 +13,6 @@
 📓 Jupyter Notebook &nbsp; | &nbsp; 💻 VS Code/PyCharm
 </p>
 
----
-
-## 🎯 Badges / Achievements
-
-<p align="center">
-![Beginner](https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen)
-![Intermediate](https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow)
-![Advanced](https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange)
-![Expert](https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue)
-![Fast Learner](https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey)
-![Brain Master](https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple)
-![Data Explorer](https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan)
-![Innovator](https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink)
-![Engineer](https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet)
-![Accuracy Hero](https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red)
-</p>
-
----
-
-## 📊 Visualizations / Примери
-
-<p align="center">
-- Графики на трендове (Matplotlib / Seaborn)<br>
-- Сравнение на модели и accuracy<br>
-- Loss curves и prediction plots
-</p>
-
----
-
-## 🚀 How to Run / Стартиране
-
-<p align="center">
-```bash
-# Clone the repo
-git clone https://github.com/YourUsername/NeuralNetworkLab.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Jupyter Notebook
-jupyter notebook
 
 ---
 
