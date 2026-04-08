@@ -58,7 +58,8 @@ This model predicts the value of sin(x) using a neural network trained on sample
 predicting the trajectory of SIR model - plotting the results - interesting fact for these kind of models - is that for training our NN model we need to map the current value of the variables with the previous ones
 [SIR_Model](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_SIR_model_predictions.py)
 
-  
+---
+
 ## 🛠️ Tech Stack / Инструменти
 
 <p align="center">
