@@ -38,6 +38,23 @@ Used for vector classification (determining in which quadrant or octant a vector
 
 This model predicts the value of sin(x) using a neural network trained on sampled points.  
 
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
+
+
 ---
 
 ### 🔁 Implementing Backpropagation from Scratch
@@ -45,6 +62,21 @@ This model predicts the value of sin(x) using a neural network trained on sample
 - Explored different neural network architectures and input formats across multiple tasks.
 - Used activation functions such as **identity** and **sigmoid**.
 - Optimized weights to minimize error using **Mean Squared Error (MSE)**.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
 
 ---
 
@@ -57,6 +89,22 @@ This model predicts the value of sin(x) using a neural network trained on sample
 - 💡 **Math Modelling:** Applying neural networks for dynamic systems - using ODE/ordinary different equations/ for computing the affection amongst the different variables - infected, sustainable, and recovered
 predicting the trajectory of SIR model - plotting the results - interesting fact for these kind of models - is that for training our NN model we need to map the current value of the variables with the previous ones
 [SIR_Model](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_SIR_model_predictions.py)
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
 
 ---
 
@@ -91,6 +139,7 @@ predicting the trajectory of SIR model - plotting the results - interesting fact
 
 Welcome to **Neural Network Lab**, where math, code, and logic collide to create intelligent systems.  
 This lab is not just coding – it’s understanding **how machines think** and **how neural networks learn from data**.  
+
 
 ---
 
@@ -136,24 +185,6 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
   <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
 </p>
 
----
-
-
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
-</p>
 
 ---
 
