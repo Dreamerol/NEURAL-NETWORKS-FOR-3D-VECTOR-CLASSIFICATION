@@ -61,6 +61,26 @@
 
 <h2 align="CENTER">📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
 
+<p align="center">
+  🌐 Neural networks are often presented as tools — fast, efficient, and ready to use.  
+</p>
+
+<p align="center">
+  But beneath that simplicity lies something far more interesting: a system that learns gradually, through structure, error, and time.
+</p>
+
+<p align="center">
+  This project is an exploration of that process.  
+</p>
+
+<p align="center">
+  Not just what neural networks do — but how they become capable of doing it.
+</p>
+
+---
+
+
+
 🌐 Neural networks are often presented as tools — fast, efficient, and ready to use.  
 But beneath that simplicity lies something far more interesting: a system that learns gradually, through structure, error, and time.
 
