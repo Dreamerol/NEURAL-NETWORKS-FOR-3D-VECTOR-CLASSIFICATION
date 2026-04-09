@@ -28,13 +28,13 @@
 <h1 align="CENTER">🧠 Neural Networks — How Machines Learn to Think</h1>
 
 <p align="center">
-  <span style="font-size:100px;">
+  <span style="font-size:170px;">
     <b><i>A portfolio project exploring how neural networks learn — from geometry to dynamic systems.</i></b>
   </span>
 </p>
 
 <p align="center">
-  <span style="font-size:100px;">
+  <span style="font-size:170px;">
     <b><i>From structure → to patterns → to learning → to time.</i><b>
   </span>
 </p>
