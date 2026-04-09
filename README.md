@@ -23,13 +23,13 @@
 </p>
 
 ---
-<h1 align="center">🧠 Neural Networks — A Journey Into Learning</h1>
+<h1 align="left">🧠 Neural Networks — A Journey Into Learning</h1>
 
-<p align="center">
-A portfolio project exploring how neural networks learn — from geometry to dynamic systems.
+<p align="left">
+ A portfolio project exploring how neural networks learn — from geometry to dynamic systems.
 </p>
 
-<p align="center">
+<p align="left">
 Not as a black box. But as a process that unfolds.
 </p>
 
@@ -101,11 +101,11 @@ More than a project — a narrative of how intelligence can emerge from simple r
 
 ---
 
-<p align="center">
+<p align="left">
 At its core, one idea remains:
 </p>
 
-<p align="center"><b>
+<p align="left"><b>
 Learning is not a moment.  
 It is a process that unfolds.
 </b></p>
