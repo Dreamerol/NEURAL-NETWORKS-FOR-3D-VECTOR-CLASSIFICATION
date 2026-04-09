@@ -20,6 +20,8 @@
 
 ---
 
+<h2>📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
+
 🌐 Neural networks are often described as tools — efficient, practical, almost mechanical in their use.
 But this work approaches them differently. 🧠
 
