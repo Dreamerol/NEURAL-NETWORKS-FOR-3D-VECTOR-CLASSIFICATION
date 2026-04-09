@@ -25,6 +25,7 @@
 </p>
 
 ---
+
 <h1 align="CENTER">🧠 Neural Networks — How Machines Learn to Think</h1>
 
 <p align="center">
@@ -55,7 +56,6 @@
   <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
 </p>
 
----
 
 ---
 
@@ -66,6 +66,21 @@ But beneath that simplicity lies something far more interesting: a system that l
 
 This project is an exploration of that process.  
 Not just what neural networks do — but how they become capable of doing it.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
 
 ---
 
@@ -80,6 +95,23 @@ What starts as scattered data becomes an internal map of understanding. ✨
 
 ---
 
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
+
+---
+
 <h3>🌊 Then comes pattern</h3>
 
 From space, the problem shifts to functions.
@@ -88,6 +120,21 @@ The network is given continuous signals like sin(x), and must learn to approxima
 Not by memorizing points — but by learning the shape behind them.
 
 This is where generalization begins. ⚙️
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
 
 ---
 
@@ -103,6 +150,21 @@ Learning becomes visible as a process of continuous correction. 📉
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
+
+---
+
 <h3>⏳ Finally, time</h3>
 
 The model is extended into dynamic systems inspired by SIR processes.
@@ -114,6 +176,22 @@ The system begins to understand change itself. 🌍
 
 ---
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
+
+---
+
 <h2 align="LEFT">🏆 THE RESULT</h2>
 
 A structured progression:
@@ -122,6 +200,23 @@ Geometry → Patterns → Learning → Time
 
 More than a project — a narrative of how intelligence can emerge from simple rules, repeated over time.
 
+
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
 
 ---
 
@@ -135,6 +230,22 @@ It is a process that unfolds.
 </b></p>
 
 </div>
+
+---
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
 
 ---
 
@@ -203,6 +314,24 @@ This model predicts the value of sin(x) using a neural network trained on sample
 - [Backpropagation Task Two](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/backpropagation_task2.py)  
 - [Backpropagation Task Three](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/backpropagation_task3.py)  
 - [Finding Best Parameters (Optimization Function)](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/Finding_the_best_parameters_using_minimizing_function.py)
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
+
+---
 
 - 💡 **Math Modelling:** Applying neural networks for dynamic systems - using ODE/ordinary different equations/ for computing the affection amongst the different variables - infected, sustainable, and recovered
 predicting the trajectory of SIR model - plotting the results - interesting fact for these kind of models - is that for training our NN model we need to map the current value of the variables with the previous ones
