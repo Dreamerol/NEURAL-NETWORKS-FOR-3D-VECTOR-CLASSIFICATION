@@ -33,7 +33,7 @@
   </span>
 </p>
 
-<p align="left">
+<p align="center">
   <span style="font-size:30px;">
     <i>From structure → to patterns → to learning → to time.</i>
   </span>
