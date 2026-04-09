@@ -27,7 +27,7 @@
 ---
 <h1 align="left">🧠 Neural Networks — A Journey Into Learning</h1>
 
-<p align="left">
+<p align="center">
   <span style="font-size:30px;">
     <b><i>A portfolio project exploring how neural networks learn — from geometry to dynamic systems.</i></b>
   </span>
