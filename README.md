@@ -22,57 +22,91 @@
 
 <h2>📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
 
-🌐 Neural networks are often described as tools — efficient, practical, almost mechanical in their use.
-But this work approaches them differently. 🧠
+<h1 align="center">🧠 Neural Networks — A Journey Into Learning</h1>
 
-As something more patient. More human in its unfolding.
+<p align="center">
+A portfolio project exploring how neural networks learn — from geometry to dynamic systems.
+</p>
 
-A process that does not begin with answers, but with understanding how those answers are slowly formed. 🌱
+<p align="center">
+Not as a black box. But as a process that unfolds.
+</p>
 
-It begins in silence, with geometry. 📍
+---
 
-Points in space — 2D, then 3D — are not yet data in the usual sense, but positions waiting to be understood. The network learns to separate them, to find order in what first appears scattered.
+<h2 align="center">🌐 PROJECT STORY</h2>
 
-Quadrants. Octants. Simple divisions of space.
-And yet, behind this simplicity, something deeper begins to take shape: recognition. ✨
+🌐 Neural networks are often presented as tools — fast, efficient, and ready to use.  
+But beneath that simplicity lies something far more interesting: a system that learns gradually, through structure, error, and time.
 
-From space, it moves into motion. 🌊
+This project is an exploration of that process. 🧠  
+Not just what neural networks do — but how they become capable of doing it.
 
-Instead of points, it is given curves — fragments of behavior. A function like sin(x), revealed only in parts, never entirely.
+---
 
-And still, it learns.
+<h3>📍 It begins with space</h3>
 
-Not by remembering what is shown, but by sensing what continues beyond it.
-As if intuition, slowly, is being replaced by computation. ⚙️
+With points in 2D and 3D geometry.
 
-Then comes the question beneath all questions: how does learning itself happen? 🔍
+At first, there is no meaning — only coordinates.  
+But through learning, the model begins to separate structure from noise, discovering regions, relationships, and organization inside raw space.
 
-So everything is taken apart.
+What starts as scattered data becomes an internal map of understanding. ✨
 
-Backpropagation. Gradient descent.
-Not as abstract ideas, but as processes built carefully, deliberately, from the ground up.
+---
 
-Each adjustment is small. Almost insignificant on its own.
-And yet together, they form change.
+<h3>🌊 Then comes pattern</h3>
 
-Measured in error. In correction. In quiet improvement. 📉
+From space, the problem shifts to functions.
 
-And finally, time enters the picture. ⏳
+The network is given continuous signals like sin(x), and must learn to approximate what it has never fully seen.  
+Not by memorizing points — but by learning the shape behind them.
 
-Systems inspired by SIR models begin to evolve — not as fixed states, but as stories unfolding step by step: susceptible, infected, recovered.
+This is where generalization begins. ⚙️
 
-Each moment depends on the one before it. Nothing exists in isolation anymore.
+---
 
-The network is no longer learning patterns alone — it is learning change. 🌍
+<h3>🔍 Then comes learning itself</h3>
 
-🏆 What remains is not a collection of techniques.
+Backpropagation and gradient descent are implemented from scratch.
 
-But a progression — almost a narrative — from space, to pattern, to process, to time.
+No abstraction. No hidden mechanics.
 
-And beneath it all, a simple idea, returning again and again in different forms:
+Only small updates, repeated over time — each one reducing error, each one refining the model slightly more than before.
 
-That learning is not a single moment of intelligence…
-but something that slowly becomes itself. 🌿
+Learning becomes visible as a process of continuous correction. 📉
+
+---
+
+<h3>⏳ Finally, time</h3>
+
+The model is extended into dynamic systems inspired by SIR processes.
+
+Now, prediction is no longer static — it evolves.  
+Each state depends on the previous one, forming trajectories instead of isolated outputs.
+
+The system begins to understand change itself. 🌍
+
+---
+
+<h2 align="center">🏆 THE RESULT</h2>
+
+A structured progression:
+
+Geometry → Patterns → Learning → Time
+
+More than a project — a narrative of how intelligence can emerge from simple rules, repeated over time.
+
+---
+
+<p align="center">
+At its core, one idea remains:
+</p>
+
+<p align="center"><b>
+Learning is not a moment.  
+It is a process that unfolds.
+</b></p>
 
 ---
 
