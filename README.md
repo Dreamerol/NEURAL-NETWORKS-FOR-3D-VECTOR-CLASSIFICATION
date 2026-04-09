@@ -108,6 +108,8 @@ Learning is not a moment.
 It is a process that unfolds.
 </b></p>
 
+</div>
+
 ---
 
 ## 📌 Key Tasks
