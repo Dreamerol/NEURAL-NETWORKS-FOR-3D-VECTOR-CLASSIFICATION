@@ -35,7 +35,7 @@
 
 <p align="center">
   <span style="font-size:100px;">
-    <i>From structure → to patterns → to learning → to time.</i>
+    <b><i>From structure → to patterns → to learning → to time.</i><b>
   </span>
 </p>
 
