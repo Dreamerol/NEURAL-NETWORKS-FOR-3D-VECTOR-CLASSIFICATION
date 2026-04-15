@@ -455,10 +455,16 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 `📊 SIR Modeller` `🌡️ Epidemic Predictor` `📈 Data Visualizer`  
 
 
+---
 
+<p align="center">
+  🔗 Explore more projects & contact via profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
 
 
 ---
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
@@ -473,12 +479,5 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
   <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
 </p>
 
----
-
-<p align="center">
-  🔗 Explore more projects & contact via profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
 
 
----
