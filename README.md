@@ -12,16 +12,19 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---
@@ -44,16 +47,19 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 
@@ -81,16 +87,19 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---
@@ -107,19 +116,22 @@ What starts as scattered data becomes an internal map of understanding. ✨
 ---
 
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
+
 
 ---
 
@@ -134,17 +146,21 @@ This is where generalization begins. ⚙️
 
 ---
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---
@@ -162,16 +178,20 @@ Learning becomes visible as a process of continuous correction. 📉
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+</p>lds.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
 </p>
 
 ---
@@ -189,16 +209,19 @@ The system begins to understand change itself. 🌍
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---
@@ -213,20 +236,22 @@ More than a project — a narrative of how intelligence can emerge from simple r
 
 
 
-
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---
@@ -246,16 +271,19 @@ It is a process that unfolds.
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---
@@ -282,16 +310,19 @@ This model predicts the value of sin(x) using a neural network trained on sample
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 
@@ -306,16 +337,19 @@ This model predicts the value of sin(x) using a neural network trained on sample
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---
@@ -330,16 +364,19 @@ This model predicts the value of sin(x) using a neural network trained on sample
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---
@@ -352,16 +389,19 @@ predicting the trajectory of SIR model - plotting the results - interesting fact
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---
@@ -379,16 +419,19 @@ predicting the trajectory of SIR model - plotting the results - interesting fact
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---
@@ -402,16 +445,19 @@ This lab is not just coding – it’s understanding **how machines think** and 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---
@@ -431,16 +477,19 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 
@@ -468,17 +517,19 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
-  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
-  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
-  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
-
 
 
