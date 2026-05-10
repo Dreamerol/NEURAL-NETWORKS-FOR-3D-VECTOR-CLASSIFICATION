@@ -9,7 +9,7 @@
 
 ![Neural Networks](https://github.com/Dreamerol/Dreamerol/blob/05cc3f0420d36a40d0dd40c86a0298e37817f2e2/NN.webp)
 
----
+<br>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
